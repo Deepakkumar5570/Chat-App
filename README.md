@@ -71,11 +71,8 @@ mern-chat-app/
      cd mern-chat-app
 
      cd backend
-     npm install
-
-    MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/dbname
-    JWT_SECRET=your_jwt_secret_here
-    PORT=5000
+     npm install 
+    PORT=5000o
     CLIENT_URL=http://localhost:3000
 
     npm run dev
