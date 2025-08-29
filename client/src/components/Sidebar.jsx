@@ -52,4 +52,4 @@ const Sidebar = ({ selectedUser, setSelectedUser }) => {
   )
 }
 
-export default Sidebar
+export default Sidebar    

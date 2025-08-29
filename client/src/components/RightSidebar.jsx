@@ -46,4 +46,4 @@ const RightSidebar = ({ selectedUser }) => {
   )
 }
 
-export default RightSidebar
+export default RightSidebar   
